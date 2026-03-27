@@ -17,12 +17,6 @@ A fun terminal-based Monopoly-style board game built in Python with colorful UI,
 
 ---
 
-## 📸 Preview
-
-![Game Preview](assets/preview.png)
-
----
-
 ## 📥 Download
 
 👉 **Download the latest EXE here:**

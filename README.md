@@ -27,7 +27,7 @@ A fun terminal-based Monopoly-style board game built in Python with colorful UI,
 
 👉 **Download the latest EXE here:**
 
-[⬇️ Download Monopoly Game](https://github.com/YOUR_USERNAME/monopoly/releases/latest)
+[⬇️ Download Monopoly Game](https://github.com/bhaskarsundriyal/monopoly/releases/download/mono/main.exe)
 
 ---
 
